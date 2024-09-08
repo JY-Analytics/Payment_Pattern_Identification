@@ -1,5 +1,6 @@
-# Ignore the private folder
+# Private folder
 private/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
