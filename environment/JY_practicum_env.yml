@@ -1,0 +1,21 @@
+name: JY_practicum_env
+channels:
+- defaults
+dependencies:
+- pandas
+- matplotlib
+- numpy
+- scikit-learn
+- seaborn
+- plotly
+- notebook
+- jupyterlab
+- scipy
+- nltk
+- bs4
+- datasets=2.12.0
+- transformers
+- imbalanced-learn
+- fsspec=2023.9.2
+- sympy
+- networkx
